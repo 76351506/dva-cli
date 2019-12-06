@@ -1,0 +1,31 @@
+/*
+ * @Author: heinan 
+ * @Date: 2019-12-06 13:41:35 
+ * @Last Modified by:   heinan 
+ * @Last Modified time: 2019-12-06 13:41:35 
+ */
+body {
+	font-size: 12px;
+}
+
+.wraper {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	display: -webkit-flex;
+	flex-direction: column;
+}
+.header {
+	color: #fff;
+	height: 44px;
+	line-height: 44px;
+	background-color: #099fde;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.content {
+	flex: 1;
+	position: relative;
+}
