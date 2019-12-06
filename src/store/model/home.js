@@ -1,3 +1,9 @@
+/*
+ * @Author: heinan 
+ * @Date: 2019-12-06 13:59:43 
+ * @Last Modified by:   heinan 
+ * @Last Modified time: 2019-12-06 13:59:43 
+ */
 import { getcarouselList } from '@/api/home';
 
 export default {
